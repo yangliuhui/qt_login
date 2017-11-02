@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>rss/lf.png</file>
+    </qresource>
+</RCC>
